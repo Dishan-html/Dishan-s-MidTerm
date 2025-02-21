@@ -1,0 +1,45 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header, .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.main {
+    height: 500px;
+    padding: 20px;
+}
+section {
+    clear: both;
+}
+
+figure {
+    float: left;
+    margin: 10px;
+}
+
+figure img {
+    width: 150px;
+    height: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+}
+ul {
+    list-style-type: square;
+}
+
+li {
+    height: 30px;
+}
+{
+    color: blue;
+    text-decoration: none;
+}
